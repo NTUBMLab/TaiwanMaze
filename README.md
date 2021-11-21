@@ -3,16 +3,22 @@
 ## Overview
 - Two different virtual environments resembling the street views in Taiwan using Unreal Engine (Version: 4.18.3).
 - Two different strategies to navigate the virtual environments: Free (free navigation) & Tour (guided video) using E-prime 2.0 software (Psychology Software Tools, Pittsburgh, PA).
-- **All the stimuli are in traditional Chinese as this is a Taiwan-based experiment.**
-- **Feel free to contact me if you want to know more about the details or if you want to translate the experiment into another language.**
+- All the stimuli are in traditional Chinese as this is a Taiwan-based experiment. 
+- Feel free to contact me if you want to know more about the details or if you want to translate the experiment into another language.
 - A traditional Chinese version of the description will soon be added.
 
-## Credit
+## Credits
 - TaiwanMaze-FreeTour is co-designed by Yi-Chuang Lin, Ya-Ting Chang, and Charlotte Maschke.
 
 ***
 
-# MapA & MapB
+# Table of Contents
+- [Overview](#overview)
+- [Virtual Environments: MapA & MapB](#experiment)
+
+***
+
+# Virtual Environments: MapA & MapB
 
 ## Stimuli
 - Photographs are captured around Taipei Main Station, consisting of 55 shops, 34 walls with windows, 60 walls with doors, and 1 sidewalk pavement.
