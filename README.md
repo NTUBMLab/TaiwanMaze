@@ -36,7 +36,8 @@
 - MapA and MapB are built in a 72x72 meter square environment using 24x24 unit buildings.
 - MapA and MapB are built controlling the same size and the number of the blocks, similar number of junctions, the same number of between-goal paths, similar between-goal distances, and the same non-goal surroundings. 
 
-![Virtual_Environment](https://github.com/yichuanglin/TaiwanMaze-FreeTour/Figures/Virtual_Environment.png)
+![Virtual_Environment](https://github.com/yichuanglin/TaiwanMaze-FreeTour/blob/main/Figures/Virtual_Environment.png)
+
 
 ***
 
@@ -77,6 +78,8 @@
 	- Files to Edit: ATask1.es2, ATask2.es2, ATask3.es2, ATask4.es2, BTask1.es2, BTask2.es2, BTask3.es2, BTask4.es2.
 	- Files to Run: ATask1.ebs2, ATask2.ebs2, ATask3.ebs2, ATask4.ebs2, BTask1.ebs2, BTask2.ebs2, BTask3.ebs2, BTask4.ebs2.
 
+![Experiment](https://github.com/yichuanglin/TaiwanMaze-FreeTour/blob/main/Figures/Experiment.png)
+
 ***
 
 # Familiarization: Goal Shop Differentiation<a name="paragraph3"></a>
@@ -95,6 +98,8 @@
 - Folders: TargetA, TargetB
 - Files to Edit: !testTargetA.es2, !testTargetB.es2
 - Files to Run: !testTargetA.ebs2, !testTargetB.ebs2
+
+![Familiarization1](https://github.com/yichuanglin/TaiwanMaze-FreeTour/blob/main/Figures/Familiarization1.png)
 
 ***
 
@@ -141,3 +146,5 @@
 	- Folder: Practice
 	- File to Edit: PTask.es2
 	- File to Run: PTask.ebs2
+
+![Familiarization2](https://github.com/yichuanglin/TaiwanMaze-FreeTour/blob/main/Figures/Familiarization2.png)
