@@ -14,11 +14,14 @@
 
 # Table of Contents
 - [Overview](#overview)
-- [Virtual Environments: MapA & MapB](#virtual-environments:-mapa-&-mapb)
+- [Virtual Environments: MapA & MapB](#paragraph1)
+- [Experiment](#paragraph2)
+- [Familiarization: Goal Shop Differentiation](#paragraph3)
+- [Familiarization: Experimental Environment](#paragraph4)
 
 ***
 
-# Virtual Environments: MapA & MapB
+# Virtual Environments: MapA & MapB<a name="paragraph1"></a>
 
 ## Stimuli
 - Photographs are captured around Taipei Main Station, consisting of 55 shops, 34 walls with windows, 60 walls with doors, and 1 sidewalk pavement.
@@ -35,7 +38,7 @@
 
 ***
 
-# Experiment
+# Experiment<a name="paragraph2"></a>
 
 ## Stimuli
 - Background color of all the slides are black.
@@ -74,7 +77,7 @@
 
 ***
 
-# Familiarization: Goal Shop Differentiation
+# Familiarization: Goal Shop Differentiation<a name="paragraph3"></a>
 
 ## Stimuli
 - Background color of all the slides are black.
@@ -93,7 +96,7 @@
 
 ***
 
-# Familiarization: Experimental Environment
+# Familiarization: Experimental Environment<a name="paragraph4"></a>
 
 ## Stimuli
 - Similar stimuli are extracted from MapA and MapB.
