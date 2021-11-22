@@ -23,4 +23,4 @@
 - MapA and MapB are built in a 72x72 meter square environment using 24x24 unit buildings.
 - MapA and MapB are built controlling the same size and the number of the blocks, similar number of junctions, the same number of between-goal paths, similar between-goal distances, and the same non-goal surroundings. 
 
-![Virtual_Environment](https://github.com/yichuanglin/TaiwanMaze-FreeTour/blob/main/Figures/Virtual_Environment.png)
+![Virtual_Environment](https://github.com/yichuanglin/TaiwanMaze-FreeTour/blob/main/Virtual_Environment.png)
