@@ -1,4 +1,4 @@
-# TaiwanMaze-FreeTour
+# TaiwanMaze
 
 ## Overview
 - Two different virtual environments resembling the street views in Taiwan using Unreal Engine (Version: 4.18.3).
